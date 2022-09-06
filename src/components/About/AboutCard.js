@@ -10,8 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mahek Adhaduk </span>
             from <span className="purple"> Rajkot, Gujarat, India.</span>
-            <br />I am a Computer Engineering Student at ISB&M COE, Pune.
-            <br />I am currently working as a Full-Stack Developer at Code Symphony LLP.
+            <br />I'm a Computer Engineering Student at <span className="purple">ISB&M COE, Pune. </span>
+            <br />I worked as a INTERN at <span className="purple">Progressive Soft-Tech </span>
+            <br />I'm currently working as a Full-Stack Developer at  <span className="purple">Code Symphony LLP. </span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
