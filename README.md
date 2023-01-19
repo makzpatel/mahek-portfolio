@@ -14,8 +14,6 @@ My personal portfolio <a href="https://mahek-portfolio.vercel.app/" target="_bla
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
 - CSS3
 - VsCode
 - Vercel
