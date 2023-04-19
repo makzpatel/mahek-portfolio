@@ -8,12 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Mahek Adhaduk </span>
-            from <span className="purple"> Rajkot, Gujarat, India.</span>
-            <br />I'm a Computer Engineering Student at <span className="purple">ISB&M COE, Pune. </span>
-            <br />I worked as a INTERN at <span className="purple">Progressive Soft-Tech </span>
-            <br />I'm currently working as a Full-Stack Developer at  <span className="purple">Code Symphony LLP. </span>
-            <br />
+              Greetings, everyone! My name is <span className="purple">Mahek Adhaduk, </span>
+              and I hail from <span className="purple"> Rajkot, Gujarat, India.</span>
+            <br />I pursued my computer engineering degree from <span className="purple">ISB&M COE, Pune. </span>
+            <br/>During my time as a student, I had the opportunity to work as an intern at <span className="purple">Progressive Soft-Tech </span>, where I gained valuable experience in software development. Following that, I worked as a full-stack developer at <span className="purple">Code Symphony LLP. </span>, where I contributed to exciting projects and continued to learn and grow as a developer.
+            <br />As a passionate programmer, I am eager to explore new opportunities in this field and continue my growth as a developer.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -25,7 +24,7 @@ function AboutCard() {
               <ImPointRight /> Gaming
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Traveling
             </li>
           </ul>
 
